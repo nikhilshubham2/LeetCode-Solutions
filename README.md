@@ -88,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## String
+|  |
+| ------- |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+## Sliding Window
+|  |
+| ------- |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 <!---LeetCode Topics End-->

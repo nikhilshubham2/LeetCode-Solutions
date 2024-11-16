@@ -111,4 +111,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2001-jump-game-vii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2001-jump-game-vii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1300-critical-connections-in-a-network) |
+## Graph
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1300-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->

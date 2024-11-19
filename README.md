@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1755-defuse-the-bomb](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2001-jump-game-vii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2001-jump-game-vii) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2001-jump-game-vii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2001-jump-game-vii) |
 ## Depth-First Search
 |  |

@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2211-k-radius-subarray-averages](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2211-k-radius-subarray-averages) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
+## Simulation
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->

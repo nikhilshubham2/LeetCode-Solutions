@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1972-rotating-the-box](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1972-rotating-the-box](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Two Pointers
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
+| [2089-maximum-matrix-sum](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 ## Rolling Hash
 |  |
 | ------- |

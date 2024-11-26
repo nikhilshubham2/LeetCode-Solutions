@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1300-critical-connections-in-a-network) |
+| [3189-find-champion-ii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3189-find-champion-ii) |
 ## Biconnected Component
 |  |
 | ------- |

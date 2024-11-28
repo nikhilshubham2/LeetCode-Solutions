@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2211-k-radius-subarray-averages](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2211-k-radius-subarray-averages) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0787-sliding-puzzle](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Matrix
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1972-rotating-the-box](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1300-critical-connections-in-a-network) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Biconnected Component
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
 |  |
@@ -195,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->

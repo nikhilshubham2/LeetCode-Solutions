@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1972-rotating-the-box](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0457-circular-array-loop](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Union Find
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0475-heaters](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0475-heaters) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |
 ## Breadth-First Search
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0457-circular-array-loop](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0475-heaters) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 ## Stack

@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Stack
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2001-jump-game-vii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2001-jump-game-vii) |
 | [2232-adding-spaces-to-a-string](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Sliding Window
 |  |

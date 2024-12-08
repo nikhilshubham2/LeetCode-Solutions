@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [2001-jump-game-vii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2001-jump-game-vii) |
+| [2164-two-best-non-overlapping-events](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 ## Combinatorics
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1972-rotating-the-box](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2164-two-best-non-overlapping-events](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2211-k-radius-subarray-averages](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2211-k-radius-subarray-averages) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2164-two-best-non-overlapping-events](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0475-heaters](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0475-heaters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2164-two-best-non-overlapping-events](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2164-two-best-non-overlapping-events](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |

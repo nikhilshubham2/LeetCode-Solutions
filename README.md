@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0457-circular-array-loop](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0141-linked-list-cycle](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0457-circular-array-loop](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0475-heaters) |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

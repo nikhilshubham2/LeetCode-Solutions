@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [2001-jump-game-vii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2001-jump-game-vii) |
 | [2164-two-best-non-overlapping-events](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
+| [2562-count-ways-to-build-good-strings](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2562-count-ways-to-build-good-strings) |
 ## Combinatorics
 |  |
 | ------- |

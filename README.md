@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2001-jump-game-vii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2001-jump-game-vii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2001-jump-game-vii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2001-jump-game-vii) |
 ## Depth-First Search
 |  |

@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0457-circular-array-loop](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2001-jump-game-vii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2001-jump-game-vii) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2001-jump-game-vii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2001-jump-game-vii) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -299,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0494-target-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->

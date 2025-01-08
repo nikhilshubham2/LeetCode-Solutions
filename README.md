@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2414-move-pieces-to-obtain-a-string](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -271,10 +273,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Simulation
 |  |
 | ------- |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Counting
 |  |
 | ------- |
@@ -306,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->

@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0475-heaters](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0498-diagonal-traverse](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [2232-adding-spaces-to-a-string](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |

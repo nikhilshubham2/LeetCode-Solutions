@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1253-sort-the-matrix-diagonally](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0475-heaters](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0475-heaters) |
+| [1253-sort-the-matrix-diagonally](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-sliding-puzzle](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1253-sort-the-matrix-diagonally](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1972-rotating-the-box](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |

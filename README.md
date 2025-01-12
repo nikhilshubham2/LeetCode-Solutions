@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0952-word-subsets) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1036-rotting-oranges](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [2232-adding-spaces-to-a-string](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |

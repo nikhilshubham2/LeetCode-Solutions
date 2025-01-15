@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1253-sort-the-matrix-diagonally](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1447-jump-game-iv](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1447-jump-game-iv) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0523-continuous-subarray-sum](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0952-word-subsets](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1447-jump-game-iv](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1447-jump-game-iv) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2117-find-original-array-from-doubled-array](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-sliding-puzzle](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1447-jump-game-iv](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1447-jump-game-iv) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |

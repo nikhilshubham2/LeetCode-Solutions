@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2001-jump-game-vii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2001-jump-game-vii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Depth-First Search
 |  |
 | ------- |

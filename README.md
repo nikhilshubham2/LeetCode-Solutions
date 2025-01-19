@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0407-trapping-rain-water-ii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0457-circular-array-loop](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0407-trapping-rain-water-ii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2164-two-best-non-overlapping-events](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |

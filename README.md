@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0498-diagonal-traverse](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0787-sliding-puzzle](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0952-word-subsets) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0854-making-a-large-island](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1447-jump-game-iv](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1447-jump-game-iv) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0407-trapping-rain-water-ii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1253-sort-the-matrix-diagonally](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0854-making-a-large-island](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1300-critical-connections-in-a-network](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1300-critical-connections-in-a-network) |
 ## Graph
 |  |

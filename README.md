@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0494-target-sum](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0514-freedom-trail](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0514-freedom-trail) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [2001-jump-game-vii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2001-jump-game-vii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0514-freedom-trail](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0514-freedom-trail) |
 | [0787-sliding-puzzle](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0514-freedom-trail](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0514-freedom-trail) |
 | [0952-word-subsets](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0514-freedom-trail](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0514-freedom-trail) |
 | [0854-making-a-large-island](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1300-critical-connections-in-a-network](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1300-critical-connections-in-a-network) |
 ## Graph

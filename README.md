@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0149-max-points-on-a-line](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0523-continuous-subarray-sum](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 ## Dynamic Programming
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0120-triangle](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0149-max-points-on-a-line](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0407-trapping-rain-water-ii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0457-circular-array-loop](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0457-circular-array-loop](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 | [0523-continuous-subarray-sum](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0952-word-subsets](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0952-word-subsets) |
@@ -388,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->

@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0952-word-subsets](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Bit Manipulation
 |  |
 | ------- |

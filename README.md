@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0494-target-sum](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0514-freedom-trail) |
+| [1170-shortest-common-supersequence](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [2001-jump-game-vii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2001-jump-game-vii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0514-freedom-trail](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0514-freedom-trail) |
 | [0952-word-subsets](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1170-shortest-common-supersequence](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |

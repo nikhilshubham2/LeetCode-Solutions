@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3639-zero-array-transformation-i](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2145-grid-game) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2576-minimum-penalty-for-a-shop) |
+| [3639-zero-array-transformation-i](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/3639-zero-array-transformation-i) |
 ## Depth-First Search
 |  |
 | ------- |

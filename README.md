@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0523-continuous-subarray-sum](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2089-maximum-matrix-sum](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2117-find-original-array-from-doubled-array](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |

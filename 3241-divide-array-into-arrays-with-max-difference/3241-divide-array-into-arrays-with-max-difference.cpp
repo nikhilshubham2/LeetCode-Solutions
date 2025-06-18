@@ -5,24 +5,13 @@ public:
         if(n % 3) return {};
         sort(nums.begin(), nums.end());
 
-        int i = 0, j = 0;
+        int i = 0;
         vector<vector<int>> ans;
-        vector<int> temp;
 
-        while(i < n){
-            if(temp.size() == 0){
-                temp.push_back(nums[i]);
-                i++;
-            }
-            else if(nums[i] - temp[0] <= k){
-                temp.push_back(nums[i]);
-                i++;
-            }
-            else if(nums[i] - temp[0] > k) return {};
-            if(temp.size() == 3){
-                ans.push_back(temp);
-                temp.clear();
-            }
+        while(i + 2 < n){
+            if(nums[i+2] - nums[i] > k) return {};
+            ans.push_back({nums[i], nums[i+1], nums[i+2]});
+            i += 3;
         }
         return ans;
     }

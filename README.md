@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1078-remove-outermost-parentheses](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2001-jump-game-vii](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2001-jump-game-vii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2089-maximum-matrix-sum](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2117-find-original-array-from-doubled-array](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/nikhilshubham2/LeetCode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |
